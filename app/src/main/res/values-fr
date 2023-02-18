@@ -30,7 +30,7 @@
     <string name="ok">Ok</string>
     <string name="no_exif">Aucune donnée exif trouvée</string>
     <string name="add_tag">Ajouter une balise</string>
-    <string name="might_be_error_with_exif">If not JPEG compress format chosen, then EXIF metadata can be showed incorrectly in other apps</string>
+    <string name="might_be_error_with_exif">Si le format de compression JPEG n\'est pas choisi, les métadonnées EXIF peuvent être affichées de manière incorrecte dans d\'autres applications.</string>
     <string name="exif" translatable="false">EXIF</string>
-    <string name="save">Save</string>
+    <string name="save">Sauvegarder</string>
 </resources>
